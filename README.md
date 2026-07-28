@@ -64,7 +64,6 @@ Portfolio/
 - 🤝 Professional Skills
 - 📂 Projects
 - 📬 Contact
-- 📄 Resume Button
 
 ---
 
