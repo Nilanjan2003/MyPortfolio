@@ -572,7 +572,6 @@ footer {
         flex-direction: column-reverse;
         text-align: center;
         min-height: auto;
-        padding-top: 30px;
     }
 
     .home-left { justify-content: center; }
